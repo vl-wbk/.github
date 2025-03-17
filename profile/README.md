@@ -4,6 +4,8 @@
 
 💛 *Voor de echte taalliefhebbers, dialectfanaten en iedereen die gewoon graag nekeer goed klapt!*  
 
+> 🏆 Officieel goedgekeurd door den bompa die nog altijd zegt: *“Vroeger was ‘t beter”*.  
+
 ## 🧐 Wadde? Wat vindde hier?  
 🔹 **Echte Vlaamse woorden & gezegden** – Alles van ‘bokes met choco’ tot ‘op uw muile krijgen’.  
 🔹 **Dialecten van overal** – West-Vlaams, Antwerps, Limburgs, Brabants… *We schuppen ze hier allemaal bijeen!*  
@@ -26,6 +28,8 @@ Denkt ge: *"Amai, daar wil ik aan meewerken!"*? Awel, *huup huup, Barbatruc*, he
 🔹 **Betekenissen verbeteren** – ‘t Moet juist zijn, eh!  
 🔹 **Voorbeeldzinnen verzinnen** – Zodat iedereen weet hoe ge ‘ne zeveraar’ in een conversatie steekt.  
 🔹 **Mee programmeren** – Werk mee aan de site of API, en maak het Vlaams digitaal nog sterker!  
+
+> ⚠️ **Let op:** Er wordt streng gecontroleerd op Hollandse infiltraties. ‘Gezellig’ mag nog net, maar als ge ‘patat’ in plaats van ‘friet’ zegt, moogt ge het zelf uitvechten met den bompa.  
 
 ## 🎁 Gratis & voor niks!  
 Alles is open-source en volledig gratis. Ge moogt ‘t gebruiken, verbeteren en uitbreiden, zolang ge er maar geen Hollandse woorden tussen smokkelt!  
