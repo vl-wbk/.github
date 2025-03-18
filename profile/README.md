@@ -1,43 +1,35 @@
-# 📖 Vlaams Woordenboek – *Van ‘Amai’ tot ‘Zever’!*  
+# 📖 Vlaams Woordenboek – *Van ‘Amai’ tot ‘Zagevent’!*  
 
-**Awel, ge hebt ‘t gevonden!** Dé digitale schatkamer vol Vlaamse woorden, zegswijzen en uitdrukkingen die ge nergens anders zo schoon bijeen ziet. Van ‘snotneus’ tot ‘sjarelt’, van ‘klaplong’ tot ‘kloddeke boter’, we hebben ‘t hier allemaal verzameld.  
+**Proficiat, ge hebt ‘t gevonden!** Dé digitale schatkamer vol Vlaamse woorden, zegswijzen en uitdrukkingen die nergens anders zo schoon bijeen staat. Van ‘ribbedebie’ tot ‘gesjareld’, van ‘snuisteren’ tot ‘schabouwelijk’, je vindt het hier allemaal.  
 
-💛 *Voor de echte taalliefhebbers, dialectfanaten en iedereen die gewoon graag nekeer goed klapt!*  
+💛 *Voor de echte taalliefhebber, de nieuwsgierige Nederlander en iedereen die zich graag laat inspireren door het Nederlands van België*  
 
-> 🏆 Officieel goedgekeurd door den bompa die nog altijd zegt: *“Vroeger was ‘t beter”*.  
+## 🧐 Wat is hier te vinden?  
+🔹 **Echte Vlaamse woorden & gezegden** – Alles van ‘zijn kat sturen’ tot ‘een toek op uw bakkes’. 
+🔹 **Een online schatkamer van Vlaams erfgoed** – Want Belgisch-Nederlands is veel meer dan wat leuke, grappige dialectwoorden.  
+🔹 **Betekenis & gebruik** – Zodat je geen rare zinnen maakt of te enthousiast strooit met 'amai' en 'goesting'.  
+🔹 **Een open databank & API** – Wil je Vlaamse woorden in je project gebruiken? Wij hebben de code al klaarstaan!  
 
-## 🧐 Wadde? Wat vindde hier?  
-🔹 **Echte Vlaamse woorden & gezegden** – Alles van ‘bokes met choco’ tot ‘op uw muile krijgen’.  
-🔹 **Dialecten van overal** – West-Vlaams, Antwerps, Limburgs, Brabants… *We schuppen ze hier allemaal bijeen!*  
-🔹 **Een online schatkamer van Vlaams erfgoed** – Want ‘t Vlaams is meer dan gewoon wat ‘plat praten’.  
-🔹 **Herkomst & gebruik** – Hoe weet ge anders of iets écht Vlaams is en niet stiekem een Hollandse indringer?  
-🔹 **Een open databank & API** – Wil ge Vlaamse woorden in uw project steken? Wij hebben de code al klaarstaan!  
+## 🎭 Vlaams leren? Hier moet je zijn!  
+Be je een verdwaalde Nederlander met ambitie om Nederbelg te worden, of een wereldburger die zich in Vlaanderen wil vestigen? Geen zorgen, hier leer je waar je buren en collega's het over hebben. 
 
-## 🎭 Vlaams leren? ‘t Is hier ne zever nie!  
-Bent ge een verdwaalde Nederlander of iemand die na jaren Brussel ineens beseft dat ge uw dialect verloren zijt? Geen zorgen, hier leert ge rap terug ‘klappen gelijk het moet’.  
+## ✨ Doe mee, je bent welkom!  
+Denk je nu: *"Plezant, daar wil ik aan meewerken!"*? Goed nieuws, dat kan! Je mag 
 
-💡 **Wist ge dat?**  
-- ‘Ne zjat koffie’ klinkt beter dan ‘een kop koffie’.  
-- ‘Content zijn’ is niet alleen Vlaams, maar ‘goe content zijn’ is next level.  
-- Als iemand zegt *“‘t Is hier nen dikke nek”*, dan zijt ge beter voorzichtig.  
-
-## ✨ Doe mee, ge zijt welkom!  
-Denkt ge: *"Amai, daar wil ik aan meewerken!"*? Awel, *huup huup, Barbatruc*, het kan!  
-
-🔹 **Nieuwe woorden en betekenissen toevoegen** – Want er duiken nog elke dag pareltjes op.  
-🔹 **Betekenissen verbeteren** – ‘t Moet juist zijn, eh!  
-🔹 **Voorbeeldzinnen verzinnen** – Zodat iedereen weet hoe ge ‘ne zeveraar’ in een conversatie steekt.  
+🔹 **Nieuwe woorden en betekenissen toevoegen** – Want we ontdekken nog elke dag pareltjes.  
+🔹 **Betekenissen verbeteren** – Het moet natuurlijk wel juist zijn!  
+🔹 **Voorbeeldzinnen vinden of verzinnen** – Zodat iedereen weet hoe wanneer je wel en beter niet 'amai' zegt. 
 🔹 **Mee programmeren** – Werk mee aan de site of API, en maak het Vlaams digitaal nog sterker!  
 
-> ⚠️ **Let op:** Er wordt streng gecontroleerd op Hollandse infiltraties. ‘Gezellig’ mag nog net, maar als ge ‘patat’ in plaats van ‘friet’ zegt, moogt ge het zelf uitvechten met den bompa.  
+> ⚠️ **Let op:** Er wordt streng gecontroleerd op Hollandse infiltraties. ‘Gezellig’ mag nog net, maar ‘patat’ in plaats van ‘friet’? Nee, dan val je onherroepelijk door de mand.  
 
 ## 🎁 Gratis & voor niks!  
-Alles is open-source en volledig gratis. Ge moogt ‘t gebruiken, verbeteren en uitbreiden, zolang ge er maar geen Hollandse woorden tussen smokkelt!  
+Alles is open-source en volledig gratis. Je mag het woordenboek gebruiken, verbeteren en uitbreiden, zolang je er maar geen misbruik van maakt. 
 
-## 🔗 Hier moete zijn:  
-📚 **[Documentatie](#)** – Hoe het werkt en waar ge moogt kliederen.  
-🐛 **[Issues & Pull Requests](#)** – Zie je iets fout? Laat ‘t weten of fix het zelf!  
+## 🔗 Hier is het te doen:  
+📚 **[Documentatie](#)** – Hoe het werkt en hoe je mee kunt spelen.  
+🐛 **[Issues & Pull Requests](#)** – Zie je een fout? Laat het even weten! 
 💬 **[Discussies](#)** – Babbelen over taal is hier altijd welkom.  
 
-## 🏆 Vlaams Woordenboek: Voor en door ‘t volk!  
-Dus, waar wacht ge op? Steek uw pollen uit de mouwen, zet uw goesting om in actie en laat het Vlaams blinken!
+## 🏆 Vlaams Woordenboek: Van, voor en door Vlamingen! (en ook voor niet-Vlamingen)  
+Dus, waar zijn die handjes? Steek ze uit de mouwen, zet je goesting om in actie en laat het Vlaams blinken!
