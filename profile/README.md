@@ -5,10 +5,10 @@
 💛 *Voor de echte taalliefhebber, de nieuwsgierige Nederlander en iedereen die zich graag laat inspireren door het Nederlands van België*  
 
 ## 🧐 Wat is hier te vinden?  
-🔹 **Echte Vlaamse woorden & gezegden** – Alles van ‘zijn kat sturen’ tot ‘een toek op uw bakkes’. 
-🔹 **Een online schatkamer van Vlaams erfgoed** – Want Belgisch-Nederlands is veel meer dan wat leuke, grappige dialectwoorden.  
-🔹 **Betekenis & gebruik** – Zodat je geen rare zinnen maakt of te enthousiast strooit met 'amai' en 'goesting'.  
-🔹 **Een open databank & API** – Wil je Vlaamse woorden in je project gebruiken? Wij hebben de code al klaarstaan!  
+- **Echte Vlaamse woorden & gezegden** – Alles van ‘zijn kat sturen’ tot ‘een toek op uw bakkes’. 
+- **Een online schatkamer van Vlaams erfgoed** – Want Belgisch-Nederlands is veel meer dan wat leuke, grappige dialectwoorden.  
+- **Betekenis & gebruik** – Zodat je geen rare zinnen maakt of te enthousiast strooit met 'amai' en 'goesting'.  
+- **Een open databank & API** – Wil je Vlaamse woorden in je project gebruiken? Wij hebben de code al klaarstaan!  
 
 ## 🎭 Vlaams leren? Hier moet je zijn!  
 Ben je een verdwaalde Nederlander met ambitie om Nederbelg te worden, of een wereldburger die zich in Vlaanderen wil vestigen? Geen zorgen, hier leer je waar je buren en collega's het over hebben. 
@@ -16,10 +16,10 @@ Ben je een verdwaalde Nederlander met ambitie om Nederbelg te worden, of een wer
 ## ✨ Doe mee, je bent welkom!  
 Denk je nu: *"Plezant, daar wil ik aan meewerken!"*? Goed nieuws, dat kan! Je mag 
 
-🔹 **Nieuwe woorden en betekenissen toevoegen** – Want we ontdekken nog elke dag pareltjes.  
-🔹 **Betekenissen verbeteren** – Het moet natuurlijk wel juist zijn!  
-🔹 **Voorbeeldzinnen vinden of verzinnen** – Zodat iedereen weet hoe wanneer je wel en beter niet 'amai' zegt. 
-🔹 **Mee programmeren** – Werk mee aan de site of API, en maak het Vlaams digitaal nog sterker!  
+- **Nieuwe woorden en betekenissen toevoegen** – Want we ontdekken nog elke dag pareltjes.  
+- **Betekenissen verbeteren** – Het moet natuurlijk wel juist zijn!  
+- **Voorbeeldzinnen vinden of verzinnen** – Zodat iedereen weet hoe wanneer je wel en beter niet 'amai' zegt.
+- **Mee programmeren** – Werk mee aan de site of API, en maak het Vlaams digitaal nog sterker!  
 
 > ⚠️ **Let op:** Er wordt streng gecontroleerd op Hollandse infiltraties. ‘Gezellig’ mag nog net, maar ‘patat’ in plaats van ‘friet’? Nee, dan val je onherroepelijk door de mand.  
 
