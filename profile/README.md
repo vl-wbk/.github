@@ -11,7 +11,7 @@
 🔹 **Een open databank & API** – Wil je Vlaamse woorden in je project gebruiken? Wij hebben de code al klaarstaan!  
 
 ## 🎭 Vlaams leren? Hier moet je zijn!  
-Be je een verdwaalde Nederlander met ambitie om Nederbelg te worden, of een wereldburger die zich in Vlaanderen wil vestigen? Geen zorgen, hier leer je waar je buren en collega's het over hebben. 
+Ben je een verdwaalde Nederlander met ambitie om Nederbelg te worden, of een wereldburger die zich in Vlaanderen wil vestigen? Geen zorgen, hier leer je waar je buren en collega's het over hebben. 
 
 ## ✨ Doe mee, je bent welkom!  
 Denk je nu: *"Plezant, daar wil ik aan meewerken!"*? Goed nieuws, dat kan! Je mag 
