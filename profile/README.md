@@ -27,9 +27,9 @@ Denk je nu: *"Plezant, daar wil ik aan meewerken!"*? Goed nieuws, dat kan! Je ma
 Alles is open-source en volledig gratis. Je mag het woordenboek gebruiken, verbeteren en uitbreiden, zolang je er maar geen misbruik van maakt. 
 
 ## 🔗 Hier is het te doen:  
-📚 **[Documentatie](#)** – Hoe het werkt en hoe je mee kunt spelen.  
-🐛 **[Issues & Pull Requests](#)** – Zie je een fout? Laat het even weten! 
-💬 **[Discussies](#)** – Babbelen over taal is hier altijd welkom.  
+- **[Documentatie](#)** – Hoe het werkt en hoe je mee kunt spelen.  
+- **[Issues & Pull Requests](#)** – Zie je een fout? Laat het even weten! 
+- **[Discussies](#)** – Babbelen over taal is hier altijd welkom.  
 
 ## 🏆 Vlaams Woordenboek: Van, voor en door Vlamingen! (en ook voor niet-Vlamingen)  
 Dus, waar zijn die handjes? Steek ze uit de mouwen, zet je goesting om in actie en laat het Vlaams blinken!
