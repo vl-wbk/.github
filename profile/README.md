@@ -28,7 +28,7 @@ Alles is open-source en volledig gratis. Je mag het woordenboek gebruiken, verbe
 
 ## 🔗 Hier is het te doen:  
 - **[Documentatie](https://vl-wbk.github.io/documentatie-portaal/)** – Hoe het werkt en hoe je mee kunt spelen.  
-- **[Issues & Pull Requests](#)** – Zie je een fout? Laat het even weten! 
+- **[Issues & Pull Requests](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+user%3Avl-wbk)** – Zie je een fout? Laat het even weten! 
 - **[Discussies](#)** – Babbelen over taal is hier altijd welkom.  
 
 ## 🏆 Vlaams Woordenboek: Van, voor en door Vlamingen! (en ook voor niet-Vlamingen)  
