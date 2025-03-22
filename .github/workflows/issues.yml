@@ -17,7 +17,7 @@ jobs:
           body: |
             Bedankt voor het aanmaken van dit ticket. 
             
-            Omdat het Vlaams woordenboek een organisatie is die gebruikmaakt en bouwd aan open-source software en onze voornaamste bijdragers vrijwilligers zijn rekenen we op de community om mee te helpen bij het diagnosticeren en oplossen van problemen. Het is voor ons niet haalbaar om elk probleem dat via GitHub wordt gemeld, zelf te onderzoeken en op te lossen.
+            Omdat het Vlaams woordenboek een organisatie is die gebruikmaakt en bouwt aan open-source software en onze voornaamste bijdragers vrijwilligers zijn rekenen we op de community om mee te helpen bij het diagnosticeren en oplossen van problemen. Het is voor ons niet haalbaar om elk probleem dat via GitHub wordt gemeld, zelf te onderzoeken en op te lossen.
             
             Dien, indien mogelijk, een pull-aanvraag in om het gemelde probleem op te lossen, bij voorkeur met bijbehorende tests. 
             Alle pull-requests worden zo snel mogelijk beoordeeld door het team van kernleden dat verantwoordelijk is voor het onderhoud van de open-source software die we binnen onze organisatie gebruiken.
