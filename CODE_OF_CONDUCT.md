@@ -47,12 +47,29 @@ Wij moedigen een open en vriendelijke samenwerking aan waarin elke deelnemer zic
 - **Duidelijkheid en transparantie**: Communiceer altijd op een eerlijke en transparante manier over je werk en je intenties binnen projecten.
 - **Verantwoordelijk:** Neem verantwoordelijkheid voor je daden en werk. Als je een fout maakt, geef dat dan toe en werk samen om het probleem op te lossen.
 
-## 5. Handhaving van de gedragscode en gevolgen bij overtredingen
+## 5. Richtlijnen voor het Gebruik van Kunstmatige Intelligentie (AI)
+
+Het gebruik van AI-tools en -systemen kan waardevol zijn voor het project Vlaams Woordenboek, bijvoorbeeld voor het genereren van codevoorstellen, het analyseren van data, het verbeteren van teksten of het automatiseren van taken. Om ervoor te zorgen dat dit gebruik verantwoord en ethisch gebeurt, gelden de volgende uitgebreide richtlijnen en beleidskeuzes:
+
+### 5.1 Algemene principes 
+
+**Bewust en verantwoordelijk gebruik:**
+Wees je bewust van de mogelijkheden, beperkingen en potentiële risico's van AI-tools. Gebruik ze alleen op een manier die in lijn is met de waarden en doelstellingen van dit project 
+en de bredere gemeenschap. Denk na over de impact van je AI-gebruik op de kwaliteit, betrouwbaarheid en inclusiviteit van het project.
+
+**Doelgerichtheid:** 
+Gebruik AI-tools alleen voor doeleinden die direct bijdragen aan de ontwikkeling en verbetering van het Vlaams Woordenboek project. 
+Persoonlijk of ongeoorloofd gebruik is niet toegestaan.
+
+**Leren en delen:**
+Moedig het leren over en het delen van best practices voor het verantwoord gebruik van AI binnen de community aan. Deel inzichten over welke tools nuttig zijn en hoe ze effectief en ethisch kunnen worden ingezet.
+
+## 6. Handhaving van de gedragscode en gevolgen bij overtredingen
 
 Om een veilige en respectvolle omgeving te waarborgen, nemen we overtredingen van deze gedragscode serieus. Alle meldingen van ongewenst gedrag worden zorgvuldig en vertrouwelijk behandeld.
 We hanteren een escalatiesysteem om ongewenst gedrag op gepaste wijze aan te pakken.
 
-#### Maatregelen bij overtreding(en)
+### Maatregelen bij overtreding(en)
 
 Afhankelijk van de ernst en frequentie van de overtreding kunnen de volgende stappen worden genomen:
 
@@ -63,10 +80,10 @@ Afhankelijk van de ernst en frequentie van de overtreding kunnen de volgende sta
 
 Onze handhaving is gericht op herstel en verbetering, maar bij ernstige incidenten behouden we ons het recht voor om strengere maatregelen te nemen om de veiligheid en het welzijn van de gehele community te beschermen.
 
-## 6. Probleem melden
+## 7. Probleem melden
 
 Als je getuige bent van een overtreding van deze gedragscode, of als je zelf ongewenst gedrag ervaart, neem dan contact op met @tjoosten. Alle meldingen worden vertrouwelijk behandeld, en we nemen stappen om de veiligheid en privacy van degenen die een melding doen te waarborgen.
 
-## 7. Aanpassingen en herziening
+## 8. Aanpassingen en herziening
 
 Deze gedragscode wordt regelmatig herzien en geüpdatet om ervoor te zorgen dat deze blijft aansluiten bij de behoeften van onze open-source gemeenschap en de waarden van scouting. Wij staan open voor feedback en suggesties van alle leden om onze gedragscode te verbeteren.
