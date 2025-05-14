@@ -64,6 +64,52 @@ Persoonlijk of ongeoorloofd gebruik is niet toegestaan.
 **Leren en delen:**
 Moedig het leren over en het delen van best practices voor het verantwoord gebruik van AI binnen de community aan. Deel inzichten over welke tools nuttig zijn en hoe ze effectief en ethisch kunnen worden ingezet.
 
+## 5.2 Gegevensprivacy en Beveiliging bij AI-gebruik
+
+**Vertrouwelijke Informatie en Privacy:**  
+Voer geen vertrouwelijke, gevoelige of persoonsgegevens (zoals onbewerkte gebruikersdata, API-sleutels, of interne projectplanningen die niet openbaar zijn) in publiekelijk beschikbare AI-tools. Dit omvat ook data die nog niet is geanonimiseerd of geaggregeerd.
+
+**Gegevensverwerking door AI-tools:**  
+Wees uiterst voorzichtig met het delen van projectgerelateerde data met externe AI-diensten. Controleer altijd het privacybeleid en de gebruiksvoorwaarden van de AI-tool om te begrijpen hoe uw ingevoerde data wordt gebruikt (bijv. voor het trainen van hun modellen). Geef de voorkeur aan AI-tools die garanderen dat ingevoerde data niet wordt gebruikt voor het trainen van hun modellen, tenzij dit expliciet is goedgekeurd voor specifieke, niet-gevoelige datasets.
+
+**Interne AI-systemen:**  
+Indien interne AI-systemen worden ontwikkeld of gebruikt, moeten deze voldoen aan de hoogste standaarden voor gegevensbeveiliging en privacy, in overeenstemming met toepasselijke wetgeving (zoals GDPR) en de interne projectrichtlijnen. Toegang tot dergelijke systemen moet strikt worden gecontroleerd.
+
+### 5.3 Verificatie, Kwaliteit en Vooringenomenheid van AI-Outputs
+
+**Verificatie van Outputs:**  
+Outputs gegenereerd door AI-tools (zoals code, teksten, suggesties of analyses) moeten altijd kritisch worden beoordeeld, geverifieerd en, indien nodig, handmatig worden aangepast voordat ze worden geïntegreerd in het project. De mate van verificatie moet proportioneel zijn aan de potentiële impact van de output. Codevoorstellen vereisen bijvoorbeeld grondige code reviews, terwijl tekstsuggesties mogelijk minder intensieve controle behoeven.
+
+**Kwaliteitsborging:**  
+Zorg ervoor dat het gebruik van AI de algehele kwaliteit en consistentie van het project niet negatief beïnvloedt. AI-gegenereerde inhoud moet voldoen aan de projectstandaarden en -richtlijnen.
+
+**Detectie en Mitigatie van Vooringenomenheid:**  
+Wees bedacht op mogelijke vooringenomenheid (bias) in AI-gegenereerde outputs, met name in taalmodellen die getraind zijn op diverse datasets. Controleer outputs op stereotypen, discriminatie of ongewenste voorkeuren die relevant kunnen zijn voor een taalproject als het Vlaams Woordenboek (bijv. regionale variaties, sociale context). Indien vooringenomenheid wordt gedetecteerd, moet de output worden aangepast om dit te corrigeren.
+
+### 5.4 Transparantie en Attributie
+
+**Transparantie over AI-gebruik:**  
+Wees transparant over het gebruik van AI bij het genereren van bijdragen aan het project. Vermeld bijvoorbeeld in een commit-bericht, een pull-request opmerking, of in de documentatie dat een deel van de code, tekst of analyse is gegenereerd of mede is tot stand gekomen met behulp van een specifieke AI-tool. Dit bevordert openheid en stelt anderen in staat om de bijdrage met de juiste context te beoordelen.
+
+**Attributie van AI-tools:**  
+Indien relevant en mogelijk, vermeld welke specifieke AI-tool is gebruikt. Dit helpt de community om inzicht te krijgen in de gebruikte technologieën en eventuele gerelateerde beperkingen of licentievoorwaarden.
+
+### 5.5 Intellectueel Eigendom en Licenties
+
+**Intellectueel Eigendom van Outputs:**  
+Houd rekening met de regels rond intellectueel eigendom bij het gebruik van AI-tools. De status van intellectueel eigendom van outputs gegenereerd door AI is een complex en evoluerend gebied. Ga er niet zomaar van uit dat je volledige eigenaar bent van AI-gegenereerde inhoud.
+
+**Compatibiliteit met Open-Source Licentie:**  
+Zorg ervoor dat het gebruik van AI-tools en de integratie van AI-gegenereerde outputs compatibel zijn met de open-source licentie waaronder het Vlaams Woordenboek project wordt uitgebracht. Wees voorzichtig met het invoeren van auteursrechtelijk beschermd materiaal in AI-tools die mogelijk auteursrechtelijke beperkingen opleggen aan de gegenereerde outputs. Bij twijfel over de licentie-implicaties, raadpleeg een maintainer of zoek juridisch advies indien nodig.
+
+### 5.6 Verantwoordelijkheid en Menselijk Toezicht
+
+**Eindverantwoordelijkheid:**  
+AI-tools zijn hulpmiddelen. De eindverantwoordelijkheid voor alle bijdragen aan het project, inclusief die welke (mede) tot stand zijn gekomen met behulp van AI, ligt altijd bij de contributor of maintainer die de bijdrage indient.
+
+**Menselijk Oordeel:**  
+AI-tools vervangen niet het menselijk oordeel, de creativiteit, de kritische denkvaardigheden en de ethische overwegingen die essentieel zijn voor het project. Gebruik AI ter ondersteuning van je werk, niet als vervanging van je eigen expertise en verantwoordelijkheid.
+
 ## 6. Handhaving van de gedragscode en gevolgen bij overtredingen
 
 Om een veilige en respectvolle omgeving te waarborgen, nemen we overtredingen van deze gedragscode serieus. Alle meldingen van ongewenst gedrag worden zorgvuldig en vertrouwelijk behandeld.
