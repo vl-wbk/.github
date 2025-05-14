@@ -64,7 +64,7 @@ Persoonlijk of ongeoorloofd gebruik is niet toegestaan.
 **Leren en delen:**
 Moedig het leren over en het delen van best practices voor het verantwoord gebruik van AI binnen de community aan. Deel inzichten over welke tools nuttig zijn en hoe ze effectief en ethisch kunnen worden ingezet.
 
-## 5.2 Gegevensprivacy en Beveiliging bij AI-gebruik
+### 5.2 Gegevensprivacy en Beveiliging bij AI-gebruik
 
 **Vertrouwelijke Informatie en Privacy:**  
 Voer geen vertrouwelijke, gevoelige of persoonsgegevens (zoals onbewerkte gebruikersdata, API-sleutels, of interne projectplanningen die niet openbaar zijn) in publiekelijk beschikbare AI-tools. Dit omvat ook data die nog niet is geanonimiseerd of geaggregeerd.
