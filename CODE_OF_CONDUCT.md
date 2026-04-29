@@ -1,72 +1,83 @@
-# Code of conduct van het Vlaams Woordenboek
+# Contributor Covenant Gedragscode (Code of Conduct)
 
-## 1. Doelstelling en toewijding
+## Onze belofte
 
-Onze open-source hub is opgericht om samen een framework te bouwen voor de database van Vlaams Woordenboek.
-Het is een platform waar contributors en maintainers samenwerken om dit project te ontwikkelen.
-Deze gedragscode heeft als doel een veilige, respectvolle en inclusieve omgeving te creëren waar iedereen zich welkom voelt om bij te dragen, ongeacht hun ervaring, achtergrond, of rol binnen de community.
+Wij als leden, contribuanten en communityleiders beloven om deelname aan onze community een intimidatievrije ervaring te maken voor iedereen, ongeacht leeftijd, lichaamsbouw, zichtbare of onzichtbare handicap, etniciteit, geslachtskenmerken, genderidentiteit en -expressie, ervaringsniveau, opleiding, sociaal-economische status, nationaliteit, voorkomen, ras, religie of seksuele identiteit en -oriëntatie.
 
-We verwachten dat alle betrokkenen deze richtlijnen naleven om een positieve ervaring voor iedereen te waarborgen.
+We beloven om te handelen en te communiceren op een manier die bijdraagt aan een open, gastvrije, diverse, inclusieve en gezonde community.
 
-## 2. Onze waarden  
+## Onze standaarden
 
-Onze gedagscode is geworteld in waarden als wederzijds respect en verantwoordelijkheid.
-Wij geloven dat iedereen de verantwoordelijkheid heeft om deze waarden in onze community uit te dragen. Onze kernwaarden zijn de volgende:
+Voorbeelden van gedrag dat bijdraagt aan een positieve omgeving voor onze community:
 
-- **Respect:** Wij behandelen elkaar met waardigheid en waarderen de meningen en bijdrages van anderen.
-- **Samenwerking:** Wij geloven in het werken als een team en het helpen van elkaar om onze doelen te bereiken.
-- **Inclusiviteit:** Wij streven naar een open en gastvrije omgeving voor iedereen, ongeacht hun achtergrond of ervaring.
-- **Verantwoordelijkheid:** Wij nemen verantwoordelijkheid voor onze acties en dragen bij aan een positieve en veilige omgeving.
+* Empathie en vriendelijkheid tonen tegenover andere mensen
+* Verschillende meningen, standpunten en ervaringen respecteren
+* Constructieve feedback geven en gracieus accepteren
+* Verantwoordelijkheid aanvaarden en excuses aanbieden aan degenen die door onze fouten zijn getroffen, en leren van de ervaring
+* Focussen op wat het beste is voor de algemene gemeenschap, niet alleen voor ons als individuen
 
-## 3. Gedragsregels
+Voorbeelden van onaanvaardbaar gedrag zijn:
 
-Om ervoor te zorgen dat iedereen zich prettig voelt om deel te nemen en bij te dragen, vragen we alle maintainers en contributors om de volgende gedragsregels te volgen:
+* Het gebruik van geseksualiseerde taal of beelden en seksuele aandacht of toenadering van welke aard dan ook
+* "Trollen", beledigende of denigrerende opmerkingen en persoonlijke- of politieke aanvallen
+* Openbare- of privé-intimidatie
+* Publiceren van persoonlijke informatie van anderen, zoals een fysiek adres of e-mail adres, zonder hun uitdrukkelijke toestemming
+* Ander gedrag dat redelijkerwijs als ongepast zou kunnen worden beschouwd in een professionele setting
 
-### Wat we verwachten van onze maintainers en contributors
+## Handhaving
 
-- **Wees respectvol en aardig:** Behandel anderen met vriendelijkheid, luister naar elkaar en respecteer elkaars ideeën en perspectieven.
-- **Stimuleer een inclusieve omgeving:** Moedig alle deelnemers aan om ideeën en bijdrages te delen. Discriminatie of uitsluiting wordt niet getolereerd.
-- **Geef constructieve feedback:** Bij het geven van feedback, wees constructief en respectvol. Richt je op de inhoud, niet op de persoon.
-- **Communiceer beleefd en duidelijk:** Gebruik een positieve toon en wees open in je communicatie. Vermijd taal die vijandigheid en of onenigheid oproept.
+Communityleiders zijn verantwoordelijk voor het verduidelijken en handhaven van onze normen van acceptabel gedrag en zullen passende en eerlijke corrigerende maatregelen nemen in reactie op elk gedrag dat zij ongepast, bedreigend, aanstootgevend, of schadelijk vinden.
 
-### Ongewenst gedrag
+Communityleiders hebben het recht en de verantwoordelijkheid om opmerkingen, commits, code, wiki-bewerkingen, issues en andere bijdragen die niet in overeenstemming met deze Gedragscode zijn te verwijderen, bewerken of afwijzen en zullen redenen voor moderatie meedelen waar nodig.
 
-Wij willen in elk geval en veilige en respectvolle omgeving garanderen. Daarom zijn de volgende gedragingen absoluut verboden:
+## Toepassingsgebied
 
-- **Intimidatie of pestgedrag:** Dit omvat schelden, kleineren of bedreigingen, of andere vormen van intimidatie die mensen een oncomfortabel gevoel geven.
-- **Discriminatie en vooroordelen:** Discriminerend gedrag op basis van ras, geslacht, genderidentiteit, seksuele geaardheid, religie, beperking of andere persoonlijkheidskenmerken is ten strengste verboden.
-- **Ongepaste of beledigende taal:** Gebruik geen agressieve, haatdragende, of discriminerende taal. Dit omvat kwetsende grappen, beledigingen en andere opgepaste uitdrukkingen.
-- **Ongepast gebruik van projectmiddelen:** Gebruik de open-source hub en alle gerelateerde middelen alleen voor het project Vlaams Woordenboek.
-- **Niet-consensuele communicatie:** Vermijd het sturen van privéberichten of het delen van persoonlijke gegevens zonder toestemming.
+Deze Gedragscode is van toepassing binnen alle gemeenschappelijke ruimtes en is ook van toepassing wanneer een individu officieel de community in openbare ruimtes vertegenwoordigt. Voorbeelden van het vertegenwoordigen van onze community zijn onder meer het gebruik van een officieel e-mailadres, berichten plaatsen via een officieel social media account of optreden als een aangestelde vertegenwoordiger bij een online of offline evenement.
 
-## 4. Richtlijnen voor samenwerking en communicatie
+## Handhaving
 
-Wij moedigen een open en vriendelijke samenwerking aan waarin elke deelnemer zich welkom voelt om bij te dragen. Hier zijn enkele aanvullende richtlijnen:
+Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden aan de communityleiders die verantwoordelijk zijn voor handhaving via <contact@vlaamswoordenboek.be>. Alle klachten zullen onmiddellijk en eerlijk worden beoordeeld en onderzocht.
 
-- **Bij conflicten of meningsverschillen:** Probeer meningsverschillen op een constructieve manier op te lossen. Indien nodig, vraag om bemiddeling van een verantwoordelijke persoon.
-- **Duidelijkheid en transparantie**: Communiceer altijd op een eerlijke en transparante manier over je werk en je intenties binnen projecten.
-- **Verantwoordelijk:** Neem verantwoordelijkheid voor je daden en werk. Als je een fout maakt, geef dat dan toe en werk samen om het probleem op te lossen.
+Alle communityleiders zijn verplicht om de privacy en veiligheid van de melder van een incident te respecteren.
 
-## 5. Handhaving van de gedragscode en gevolgen bij overtredingen
+## Handhavingsrichtlijnen
 
-Om een veilige en respectvolle omgeving te waarborgen, nemen we overtredingen van deze gedragscode serieus. Alle meldingen van ongewenst gedrag worden zorgvuldig en vertrouwelijk behandeld.
-We hanteren een escalatiesysteem om ongewenst gedrag op gepaste wijze aan te pakken.
+Communityleiders zullen onderstaande "Community Impact Guidelines" volgen bij het bepalen van de consequenties van elke handeling die zij in strijd met de Gedragscode achten:
 
-#### Maatregelen bij overtreding(en)
+### 1. Correctie
 
-Afhankelijk van de ernst en frequentie van de overtreding kunnen de volgende stappen worden genomen:
+**Impact op de community**: Gebruik van ongepast taalgebruik en ander gedrag dat onprofessioneel of als niet gewenst wordt geacht in de community.
 
-- **Informele waarschuwing:** Bij een lichte overtreding geven we een vriendelijke herinnering aan deze gedragscode. Hierbij krijgt de contributor uitleg over waarom het gedrag onwenselijk is en hoe dit kan worden verbeterd.
-- **Formele waarschuwing:** Bij herhaald of ernstiger ongepast gedrag wordt een formele waarschuwing gegeven. Dit gaat gepaard met een documentatie van het incident en, indien nodig, aanvullende begeleiding om herhaling te voorkomen.
-- **Tijdelijke uitsluiting**: Als het ongewenste gedrag aanhoudt of ernstig is, kan een tijdelijke schorsing van deelname aan de hub worden opgelegd. Dit biedt de contributor de kans om te reflecteren op hun acties voordat zij kunnen terugkeren.
-- **Permanente uitsluiting:** In gevallen van ernstig, grensoverschrijdend gedrag, of bij herhaalde overtredingen na eerdere maatregelen, kan de deelnemer permanent worden uitgesloten van de open-source hub. Deze beslissing wordt genomen door de beheerders van de hub.
+**Consequentie**: Een persoonlijke, schriftelijke waarschuwing van communityleiders, verduidelijking over de aard van de overtreding en een uitleg waarom het gedrag ongepast wordt geacht. Mogelijk wordt hierbij om een openbare verontschuldiging gevraagd.
 
-Onze handhaving is gericht op herstel en verbetering, maar bij ernstige incidenten behouden we ons het recht voor om strengere maatregelen te nemen om de veiligheid en het welzijn van de gehele community te beschermen.
+### 2. Waarschuwing
 
-## 6. Probleem melden
+**Impact op de community**: Een overtreding door een enkel incident of reeks van acties.
 
-Als je getuige bent van een overtreding van deze gedragscode, of als je zelf ongewenst gedrag ervaart, neem dan contact op met @tjoosten. Alle meldingen worden vertrouwelijk behandeld, en we nemen stappen om de veiligheid en privacy van degenen die een melding doen te waarborgen.
+**Consequentie**: Een waarschuwing met gevolgen als het gedrag voortduurt. Geen interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, voor een bepaalde periode. Dit omvat het vermijden van interacties in gemeenschappelijke ruimtes en externe kanalen zoals op social media. Het overtreden van deze voorwaarden kan leiden tot een tijdelijke of permanente ban.
 
-## 7. Aanpassingen en herziening
+### 3. Tijdelijk verbod
 
-Deze gedragscode wordt regelmatig herzien en geüpdatet om ervoor te zorgen dat deze blijft aansluiten bij de behoeften van onze open-source gemeenschap en de waarden van scouting. Wij staan open voor feedback en suggesties van alle leden om onze gedragscode te verbeteren.
+**Impact op de community**: Een ernstige schending van community normen, inclusief aanhoudend ongepast gedrag.
+
+**Consequentie**: Een tijdelijk verbod op elke vorm van interactie of openbare communicatie met de community gedurende een bepaalde periode. Geen publieke- of privé-interactie met de betrokken personen, inclusief ongevraagde interactie met degenen die de Gedragscode handhaven, is toegestaan tijdens deze periode. Het overtreden van deze voorwaarden kan leiden tot een permanente ban.
+
+### 4. Permanente ban
+
+**Impact op de community**: Een patroon van schending van de community standaarden vertonen, waaronder aanhoudend ongepast gedrag, intimidatie van een individu of agressie jegens- of kleinering van groepen van individuen.
+
+**Consequentie**: Een permanent verbod op elke vorm van openbare interactie in de community.
+
+## Attributie
+
+Deze gedragscode is een aangepaste versie van de [Contributor Covenant][homepage], versie 2.0, beschikbaar op [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+
+Richtlijnen voor impact op de community zijn geïnspireerd door [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+
+Voor antwoorden op veelgestelde vragen over deze gedragscode, zie de veelgestelde vragen op [https://www.contributor-covenant.org/faq][FAQ]. Er zijn vertalingen beschikbaar op [https://www.contributor-covenant.org/translations][translations].
+
+[homepage]: https://www.contributor-covenant.org
+[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
+[Mozilla CoC]: https://github.com/mozilla/diversity
+[FAQ]: https://www.contributor-covenant.org/faq
+[translations]: https://www.contributor-covenant.org/translations
